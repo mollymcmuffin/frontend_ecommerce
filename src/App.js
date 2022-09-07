@@ -19,7 +19,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Home />}></Route>
+        <Route path="/frontend_ecommerce" element={<Home />}></Route>
         <Route path="/success" element={<Success />}></Route>
 
         <Route path="/products" element={<ProductList />}>
