@@ -1,6 +1,6 @@
 {
   "homepage": "http://mollymcmuffin.github.io/frontend_ecommerce/",
-  "name": "ecommerce",
+  "name": "frontend_ecommerce",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
